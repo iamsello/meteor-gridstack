@@ -8,7 +8,7 @@ Package.describe({
 Package.onUse(function (api) {
   api.versionsFrom('0.9.0');
   api.use('jquery', 'client');
-  api.use('linto:jquery-ui', 'client');
+  api.use('linto:jquery-ui@1.11.2', 'client');
   api.use('underscore', 'client');
 
   api.addFiles('gridstack.js', 'client');
