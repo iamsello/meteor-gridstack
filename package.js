@@ -1,5 +1,5 @@
 Package.describe({
-  name: "ckiely91:gridstack"
+  name: "ckiely91:gridstack",
   summary: "Adds gridstack.js",
   version: "1.0.0",
   git: "https://github.com/ckiely91/meteor-gridstack"
